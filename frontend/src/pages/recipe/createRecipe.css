@@ -1,0 +1,31 @@
+div.horizontalScroll {
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;
+    width: 350px;
+    height: 55px;
+}
+
+.custom-badge {
+    background-color: #EC7765!important;
+    width: auto;
+}
+
+div.ingredient-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.btn-flat {
+    background-color: #EC7765;
+    color: white;
+    font-size: 16;
+    font-family: Roboto;
+
+}
+
+.ingredient-entry {
+    margin-bottom: 10px;
+}
