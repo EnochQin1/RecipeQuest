@@ -1,5 +1,5 @@
 # RecipeQuest
-CS 307 Software Engineering Group Project.  RecipeQuest is a website for sharing and viewing recipes without the bloat of its' competitors.
+Software Engineering Project, website frontend and backend done using the MERN stack and Google Firebase.  RecipeQuest is a website for sharing and viewing recipes without the bloat of its' competitors.
 
 # Getting Started with Create React App
 
